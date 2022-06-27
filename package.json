@@ -1,0 +1,27 @@
+{
+  "name": "express-restapi-template",
+  "version": "1.0.0",
+  "description": "template for rest-api express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fendipratama/express-rest-api-template.git"
+  },
+  "author": "fendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fendipratama/express-rest-api-template/issues"
+  },
+  "homepage": "https://github.com/fendipratama/express-rest-api-template#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "http-errors": "^2.0.0"
+  }
+}
